@@ -1,0 +1,1 @@
+# DRF-Viewsets-curd-operations
